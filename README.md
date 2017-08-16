@@ -1,2 +1,2 @@
-# MotionSensor
-Attiny based motion sensor, 
+# Attiny In Motion
+Attiny based motion sensor. 
